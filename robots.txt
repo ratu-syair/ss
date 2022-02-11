@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ratu-syair.github.io/ss/sitemap.xml
